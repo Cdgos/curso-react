@@ -6,3 +6,9 @@
 * Mi version node PC: v16.17.0
 * Extensiones Visual Studio Code recomendadas: ES7 React/Redux, Simple React Snippets y Auto Close Tag 
 
+## Correr proyecto
+
+1. Git clone proyecto
+2. cd proyecto, ejemplo cd 02-intro-javascript
+3. npm install
+5. npm start
