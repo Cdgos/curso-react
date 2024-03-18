@@ -11,4 +11,11 @@
 1. Git clone proyecto
 2. cd proyecto, ejemplo cd 02-intro-javascript
 3. npm install
-5. npm start
+4. npm start
+
+## 03-CounterApp-Vite
+
+0. NVM current -> node version v20.11.1
+1. Instalar yarn: npm install --global yarn
+2. yarn install
+3. yarn dev
